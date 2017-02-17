@@ -1,4 +1,4 @@
-FROM centos
+FROM registry.novalocal/centos
 
 ENV WP_DATABASE wp_db
 ENV WP_DB_USER wp_db_user
